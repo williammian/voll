@@ -1,0 +1,10 @@
+https://create-react-app.dev/docs/adding-typescript/
+
+npx create-react-app my-app --template typescript
+
+-------------------------------------------------------
+
+Figma
+
+https://www.figma.com/community/file/1418304649315685345/react-com-typescript-desenvolvendo-uma-area-administrativa-voll-med
+
