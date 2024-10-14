@@ -1,0 +1,15 @@
+Json Server
+
+Tendo o arquivo db.json, ir na na pasta do mesmo e rodar o seguinte comando
+
+json-server --watch -p 8080 db.json
+
+--------------------------------------
+
+O comando pode ser inserido no arquivo package.json
+
+Em "scripts"
+
+"api": "json-server --watch -p 8080 db.json"
+
+---------------------------------------
