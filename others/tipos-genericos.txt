@@ -1,0 +1,9 @@
+Tipos Genéricos
+
+Durante a construção do hook useFetch() declaramos que ele iria retornar um dado do tipo <T>, mas o que significa isso? 
+O tipo <T> no TypeScript é conhecido como tipo genérico, e é usado para criar funções, classes e interfaces que podem 
+trabalhar com diferentes tipos de dados sem precisar especificar o tipo de dados exato que serão usados. No nosso caso, 
+não temos como afirmar que ao chamar aquela função receberíamos dados do tipo IConsulta ou IProfissional, 
+então usando generics conseguimos flexibilizar o código para permitir sua reutilização.
+
+Ao usar o tipo <T>, você está dizendo ao TypeScript para usar um tipo específico de dados com base nos argumentos passados para a função.
