@@ -12,4 +12,8 @@ Em "scripts"
 
 "api": "json-server --watch -p 8080 db.json"
 
+Para rodar
+
+npm run api
+
 ---------------------------------------

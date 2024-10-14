@@ -1,0 +1,19 @@
+Bibliotecas de Componentes
+
+Usar bibliotecas de componentes é uma forma eficiente de desenvolver a parte visual da página, elas contêm conjuntos 
+predefinidos de componentes. Isso ajuda a economizar tempo no processo de desenvolvimento e garantir uma consistência visual na página.
+
+Para construir a tabela usamos o MUI (anteriormente conhecido como Material-UI), uma estrutura popular do React UI 
+que fornece um conjunto de componentes de interface do usuário reutilizáveis e personalizáveis com base nas diretrizes 
+de design de materiais do Google.
+
+O MUI é amplamente utilizado em muitos aplicativos da Web de nível de produção e possui uma comunidade vibrante e ativa 
+que contribui para seu desenvolvimento e manutenção.
+
+Para instalar a biblioteca em seu projeto você pode escrever o seguinte comando no terminal:
+
+npm install @mui/material @emotion/react @emotion/styled
+
+Mas tabelas não é a única coisa que o MUI consegue nos disponibilizar, que tal dar uma pausa e navegar pelos vários 
+componentes na documentação da biblioteca? É só acessar o site oficial do MUI (https://mui.com/)
+
